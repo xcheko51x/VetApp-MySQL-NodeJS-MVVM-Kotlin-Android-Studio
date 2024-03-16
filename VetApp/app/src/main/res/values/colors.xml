@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="verde100">#bade57</color>
+    <color name="verde200">#8ccc81</color>
+    <color name="verde300">#56877d</color>
+    <color name="verde400">#525c5a</color>
+    <color name="verde500">#0d7f57</color>
+
+    <color name="crema100">#e5e6c9</color>
+
+    <color name="azul100">#3F51B5</color>
+
+    <color name="rojo100">#F44336</color>
+</resources>
